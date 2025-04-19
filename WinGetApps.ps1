@@ -1,4 +1,6 @@
-# import Winget
+# credit to https://powershellisfun.com/2025/02/07/using-the-powershell-winget-client-module-to-install-your-apps-on-your-new-computer/
+
+# import WinGet
 Install-Module -Name Microsoft.WinGet.Client
 Import-Module -Name Microsoft.WinGet.Client
 
